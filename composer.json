@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/SexyBookmarks_Free_extension",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Sexy Bookmarks adds a a modern beautiful menu under or above your catalog/products. This menu allows people to simply click to add your article to social bookmarking sites like Twitter, Facebook, Digg, Stumbleupon, LinkedIn, Google Mail, WordPress, and lots more! The plugin’s settings panel has 33 different social bookmarking sites that can be selected on website.
+",
+    "authors": [
+    {
+        "name": "volgodark",
+        "email": "volgodark@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>SexyBookmarks_Free_extension</name>
+    <version>1.3.5</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Sexy Bookmarks adds a a modern beautiful menu under or above your catalog/products. This menu allows people to simply click to add your article to social bookmarking sites like Twitter, Facebook, Digg, Stumbleupon, LinkedIn, Google Mail, WordPress, and lots more! The plugin&#x2019;s settings panel has 33 different social bookmarking sites that can be selected on website.&#xD;
+</summary>
+    <description>Sexy Bookmarks adds a a modern beautiful menu under or above your catalog/products. This menu allows people to simply click to add your article to social bookmarking sites like Twitter, Facebook, Digg, Stumbleupon, LinkedIn, Google Mail, WordPress, and lots more! The plugin&#x2019;s settings panel has 33 different social bookmarking sites that can be selected on website.&#xD;
+</description>
+    <notes>1.3.5</notes>
+    <authors><author><name>volgodark</name><user>volgodark</user><email>volgodark@gmail.com</email></author></authors>
+    <date>2012-07-10</date>
+    <time>16:51:16</time>
+    <contents><target name="magecommunity"><dir name="Magazento"><dir name="Sexybookmarks"><dir name="Block"><file name="Developer.php" hash="4af82f12823df3c7d0c463d94dc2181a"/></dir><dir name="Helper"><file name="Data.php" hash="807988eada4e5b7d66f60e089b777f58"/></dir><dir name="Model"><file name="List.php" hash="4c786293cec5d5b6ba9e1d6a6a2a9280"/><dir name="Source"><file name="Mode.php" hash="b76a330f96c355562240f757bf451b1c"/></dir></dir><dir name="etc"><file name="config.xml" hash="b5ab0df97a7b2b74ff7400881aaf3d64"/><file name="system.xml" hash="ea8a6e1235911644c97f5d8cde5bf25b"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="magazento"><dir name="sexybookmarks"><file name="list.phtml" hash="30bf377a198bf5801e085f9811d36219"/></dir></dir></dir><dir name="layout"><file name="magazento_sexybookmarks.xml" hash="739a3c34038cd10bc9e891d132b1e1d4"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Magazento_Sexybookmarks.xml" hash="ed58b2f3b5b193320dbc9f1675f1539a"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="magazento"><dir name="sexybookmarks"><file name="jquery.js" hash="518215c646beff570b8d9849429139d4"/><file name="logo_onecheckout.jpg" hash="cf71a3d20cf06abaf99521651c2fe3d1"/><file name="logo_pdf.jpg" hash="5a0d745372115da1d61168e2529c0c0d"/><file name="logo_sitemap.jpg" hash="937495eec93cb1640b6244bff4cb31a2"/><file name="menu_box.jpg" hash="e76e4c6b62b096ca87175eb0f5270062"/><file name="promo.jpg" hash="88520d456df68c98130433b5184b8e7f"/><file name="sexy-bookmarks-public.js" hash="3367525cfb9d85cf751b99752e2305b4"/><file name="share-enjoy.png" hash="35dc063bd0d52c108c775c4a64956078"/><file name="share-german.png" hash="0ca697aa8c6ac1e5b416d7c97348beda"/><file name="share-knowledge.png" hash="fb866a69f07e466eee9517562a05a3a7"/><file name="share-love-hearts.png" hash="08453b5c18b63e66f1493c54017421d6"/><file name="share-wealth.png" hash="456931a63aa35427160fa8d5eb21d0d8"/><file name="sharing-caring-hearts.png" hash="1963c6b21939cc427e9a32de63387592"/><file name="sharing-caring.png" hash="1ab271f5a84fa23f7c4224f1f9f6ab95"/><file name="sharing-shr.png" hash="f3249334917becc38af2f14638da18e8"/><file name="shr-custom-sprite.css" hash="a016b3e2483ae16e3320b676a4992e04"/><file name="shr-custom-sprite.png" hash="33ba5db8c6a8359bfdee45a83874343d"/><file name=".DS_Store" hash="194577a7e20bdcc7afbb718f502c134c"/></dir></dir></dir></dir></dir></target><target name="magelocale"><dir><dir name="en_US"><file name="Magazento_Sexybookmarks.csv" hash="d41d8cd98f00b204e9800998ecf8427e"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.1</min><max>6.0.0</max></php></required></dependencies>
+</package>
